@@ -1,0 +1,5 @@
+source env3_6/bin/activate
+
+(env3_6) semanti@Inspiron-5558:~/Documents/cnngeometric_pytorch$ python demo.py --pf-path datasets/
+
+
